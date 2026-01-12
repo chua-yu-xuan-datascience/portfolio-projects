@@ -397,3 +397,4 @@ mean((resale_trans-treefit)^2)
 #sqrt(6326615360)
 # 79540.02 (actual RMSE)
 ## 0.1699573 off the median 468000
+
